@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MeusDadosApp</string>
+    <string name="main_title">Dados pessoais</string>
+    <string name="input_first_name">Nome</string>
+    <string name="input_last_name">Sobrenome</string>
+    <string name="input_age">Idade</string>
+    <string name="input_salary">Salário</string>
+    <string name="input_gender">Sexo</string>
+    <string name="button_confirm">OK</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="default_hint">Digite...</string>
+</resources>
